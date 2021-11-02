@@ -53,7 +53,7 @@ event, values = window.read()
 window.close()
 # endregion
 # region - RACES TODAY 
-SCRAPINGBEE_API_KEY = "NYSW5XC012CU6YM3AND18KFUODWRHEDNOD7EM4Q5HSZZLGW2VCE8QUYV73FAAC0AV2CV8XO2CEPA82VD"
+SCRAPINGBEE_API_KEY = "" # to avoid getting blocked by Betfair / Oddschecker, I use ScrapingBee. You can use their own 14-day free trial and enter your API key here.
 endpoint = "https://app.scrapingbee.com/api/v1"
 
 def racestoday():
