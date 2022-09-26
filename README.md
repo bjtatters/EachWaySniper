@@ -8,3 +8,5 @@ Here both the standard wach way sniping and extra places betting systems have be
 **How does the program work?**
 
 For both sets of betting systems, four bets need to be executed; two at a bookie - a win bet and a place bet - and two at the exchage -  a lay bet on the win and a lay bet on the place. At its most simplest, the program web scrapes the odds from each horse in every race on a given day across all bookies and the Betfair Exchange to calculate, for a given stake, what the return can be expected.
+
+_I am working in UIPath at the moment to combine the existing program with the automation of bet placement on both bookies and the exchange._
